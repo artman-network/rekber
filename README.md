@@ -8,7 +8,7 @@
 
 ---
 
-### REKBER – Rekening Bersama 
+### Rekening Bersama 
 
 Website statis layanan **Rekening Bersama** sebagai pihak ketiga untuk mengamankan transaksi antara pembeli dan penjual. Untuk operasional nyata, dibutuhkan integrasi backend dan sistem keamanan yang disiplin.
 
