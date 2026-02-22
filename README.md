@@ -10,18 +10,18 @@
 
 ### Rekening Bersama 
 
-Website statis layanan **Rekening Bersama** sebagai pihak ketiga untuk mengamankan transaksi antara pembeli dan penjual. Untuk operasional nyata, dibutuhkan integrasi backend dan sistem keamanan yang disiplin.
+Website statis layanan **Rekber** sebagai pihak ketiga untuk mengamankan transaksi antara pembeli dan penjual. Untuk operasional nyata, dibutuhkan integrasi backend dan sistem keamanan yang disiplin.
 
 ---
 
 ### ⚠ Catatan Teknis
 
-Saat ini:
+Saat ini :
 - Belum ada backend
 - Belum ada validasi lanjutan
 - Belum ada proteksi keamanan server-side
 
-Untuk produksi disarankan:
+Disarankan :
 - Sanitasi input
 - HTTPS
 - Rate limiting
